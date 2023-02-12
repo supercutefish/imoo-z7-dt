@@ -1,0 +1,4 @@
+
+add_lunch_combo omni_msm8937_32go_i25-user
+add_lunch_combo omni_msm8937_32go_i25-userdebug
+add_lunch_combo omni_msm8937_32go_i25-eng
